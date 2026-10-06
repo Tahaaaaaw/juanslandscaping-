@@ -1,0 +1,16 @@
+{
+  "lawnAndLandscaping": [
+    "/gallery/work-1.jpg",
+    "/gallery/work-3.jpg",
+    "/gallery/work-4.jpg"
+  ],
+  "walkwaysAndHardscape": [
+    "/gallery/work-1.jpg",
+    "/gallery/work-2.jpg"
+  ],
+  "treeAndPalms": [
+    "/gallery/work-3.jpg",
+    "/gallery/work-4.jpg",
+    "/gallery/work-1.jpg"
+  ]
+}
